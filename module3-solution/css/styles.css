@@ -25,7 +25,6 @@ body {
 
 #nav-list {
 	background-color: #6699cc;
-	text-align: center;
 	font-size:1.5em;
 	padding: 0;
 	margin: 0;
@@ -40,6 +39,8 @@ body {
 
 .tile {
 	background-color: #999999;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .tile-title {
@@ -50,5 +51,4 @@ body {
 
 .menu-tile p {
 	font-size: 1.1em;
-
 }
